@@ -1,12 +1,12 @@
 {
-  "name": "28-09",
+  "name": "pedrinho",
   "version": "1.0.0",
   "type": "module",
   "main": "db.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
-    "vaiteia": "nodemon server.js"
+    "acorda-pedrinho": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
